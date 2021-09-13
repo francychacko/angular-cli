@@ -44,7 +44,7 @@
     "mini-css-extract-plugin": "1.4.1",
     "minimatch": "3.0.4",
     "open": "8.0.5",
-    "ora": "5.4.0",
+    "ora": "6.0.0",
     "parse5-html-rewriting-stream": "6.0.1",
     "postcss": "8.2.10",
     "postcss-import": "14.0.1",
@@ -70,7 +70,7 @@
     "tree-kill": "1.2.2",
     "webpack": "5.32.0",
     "webpack-dev-middleware": "4.1.0",
-    "webpack-dev-server": "3.11.2",
+    "webpack-dev-server": "4.0.0",
     "webpack-merge": "5.7.3",
     "webpack-subresource-integrity": "1.5.2"
   },
