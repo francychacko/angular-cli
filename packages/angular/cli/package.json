@@ -39,9 +39,9 @@
     "npm-pick-manifest": "6.1.1",
     "open": "8.0.5",
     "ora": "5.4.0",
-    "pacote": "11.3.1",
+    "pacote": "17.0.4",
     "resolve": "1.20.0",
-    "rimraf": "3.0.2",
+    "rimraf": "4.3.1",
     "semver": "7.3.5",
     "symbol-observable": "3.0.0",
     "uuid": "8.3.2"
